@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Ronald Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+ <p>- <i>Estudiante de 3er año de la carrera de Sistemas de Ingeniera de Información .</i></p>
 
-<!--
-**Ronald-Martinez/Ronald-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡🙋‍♂️ About Me
+
+</br>
+
+- 🔧 Actualmente estoy tomando cursos de ciberseguridad.
+
+- 💡 Me interesa todo lo relacionado con la seguridad informatica e inteligencia artificial.
+- 📖 Actualmente estoy aprendiendo varios idiomas por ejemplo: (Ingles, Frances, Portugues).
+- ❄️ Solo quiero aprender y reformar mi conociimento con más información cada dia.
+- 📫 How to reach me: ronaldmvm_2000@hotmail.com.com.
+
+<hr>
+
+<!---
